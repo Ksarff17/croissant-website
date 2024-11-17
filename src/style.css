@@ -1,6 +1,6 @@
 body{
     background-color: bisque;
-    margin: 0 auto;
+    margin: 40px auto;
     max-width: 800px;
     
 }
@@ -28,4 +28,15 @@ img{
     display: block;
     margin: 0 auto;
     max-width: 80%;
+}
+.email{
+    border: none;
+    background-color: bisque;
+    box-shadow: none;
+    padding: 0px;
+    margin: 0px;
+
+}
+.email:hover{
+    text-decoration: underline;
 }
